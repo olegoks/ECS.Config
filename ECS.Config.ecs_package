@@ -1,0 +1,15 @@
+Package = {
+    Name = "Config",
+    Version = "0.0.0-dev",
+    FrameworkVersion = "1.0.0",
+    Dependecies = {
+        {
+            Name = "Common",
+            Version = "latest"
+        }
+    },
+    Modules = {
+        { "Sources/Config.ecs_module" }
+    }
+
+}
