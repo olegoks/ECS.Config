@@ -1,6 +1,6 @@
 #pragma once
 #include <Config/auto_OksEngine.Config.hpp>
-#include <Resources/OksEngine.ResourceSystem.Utils.hpp>
+#include <Resource/OksEngine.ResourceSystem.Utils.hpp>
 
 #include <Common/auto_OksEngine.LuaScript.hpp>
 
